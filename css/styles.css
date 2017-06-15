@@ -6,7 +6,7 @@ body{
     text-align: center;
 }
 img {
-    width: 100%;
+    width: 50%;
     height: 50%;
 }
 h1 {
@@ -42,7 +42,6 @@ aside {
   height: 100%;
   min-height: 100%;
   left: -200px;
-    right: 200px;
   width: 200px;
   z-index: 999999;
   transition: left .25s;
